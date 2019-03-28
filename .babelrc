@@ -1,0 +1,12 @@
+// {
+//   "presets": ["react-native"],
+//   "plugins": [
+//     "@babel/plugin-syntax-dynamic-import",
+//     "@babel/plugin-proposal-export-default-from",
+//     "transform-class-properties"
+//   ]
+// }
+
+{
+  "presets": ["module:metro-react-native-babel-preset"]
+}
